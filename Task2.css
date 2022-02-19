@@ -1,0 +1,204 @@
+body{
+    width: 90%;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+.tit{
+    width: 20%;
+    margin-left: 100px;
+    color: green;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+.link{
+    position:relative;
+    margin-left: 450px;
+    margin-top: -70px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+
+.link li{
+    list-style-type: none;
+    float: left;
+    margin: 3px;
+    padding: 23px;
+}
+
+.link a{
+    text-decoration: none;
+    color: black;
+}
+
+.link a:hover{
+    color: green;
+}
+
+
+.border1{
+    position:static;
+    margin-left: 50px;
+    margin-top: 120px;
+    width: 99%;
+    height: 400px;
+    border: 2px green solid;
+}
+
+.myself {
+    position: relative;
+    color:black;
+    margin-left: 100px;
+    margin-top: 120px;
+}
+
+.myself h2{
+    color: black;
+    font-family:sans-serif;
+    font-weight: bolder;
+    font-size: 28px;
+    font-variant:inherit;
+}
+
+.myself h3{
+    color: green;
+    font-family:serif;
+    font-weight: bolder;
+    font-size: 25px;
+    font-variant:inherit;
+}
+
+.myself h4{
+    font-size: 18px;
+}
+
+.myself a{
+    font-size: 22px;
+    font-weight: bolder;
+    text-decoration: none;
+    color: black;
+    background-color: green;
+    border: 2px black solid;
+
+}
+
+.myself a:hover{
+    font-size: 22px;
+    font-weight: bolder;
+    text-decoration: none;
+    color: green;
+    background-color: black;
+    border: 2px green solid;
+}
+
+img{
+    position: static;
+    width: 30%;
+    height: 300px;
+    margin-left: 750px;
+    margin-top: -250px;
+    border-radius: 50%;
+}
+
+.about h2{
+    width: 30%;
+    margin-left: 100px;
+    color: green;
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+.about p{
+    position: relative;
+    color:black;
+    margin-left: 100px;
+    margin-top: 10px;
+    font-family: monospace;
+    word-spacing: 2px;
+    font-size: 15px;
+    font-weight: bolder;
+    text-align: justify;
+
+}
+
+.skills h2{
+    position: relative;
+    width: 30%;
+    margin-left: 100px;
+    color: green;
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    margin-top: 100px;
+}
+
+.skills li{
+    list-style-type:none;
+    position: relative;
+    color:black;
+    margin-left: 100px;
+    margin-top: 10px;
+    font-family: monospace;
+    word-spacing: 2px;
+    font-size: 15px;
+    font-weight: bolder;
+    text-align: justify;
+}
+
+.work h2{
+    position: relative;
+    width: 30%;
+    margin-left: 100px;
+    color: green;
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    margin-top: 100px;
+}
+
+.work p{
+    position: relative;
+    color:black;
+    margin-left: 100px;
+    margin-top: 10px;
+    font-family: monospace;
+    word-spacing: 2px;
+    font-size: 15px;
+    font-weight: bolder;
+    text-align: justify;
+
+}
+
+.contact h2{
+    position: relative;
+    width: 30%;
+    margin-left: 100px;
+    color: green;
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    margin-top: 100px;
+}
+
+.contact img{
+    position: relative;
+    width: 38%;
+    height: 60px;
+    margin-left: 80px;
+    margin-top: 10px;
+
+}
+
+.contact li{
+    list-style-type: none;
+    float: left;
+    margin: 10px;
+    padding: 1px;
